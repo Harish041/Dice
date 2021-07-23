@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    padding: 0;
+    display: contents;
+    background-color: #515E63;
+}
+/*.container1{
+    background-color: #57837B;
+    margin: 25px;
+    width: 70%;
+    height: 50%;
+    margin-left: 200px;
+    margin-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    box-shadow: 50px;
+    z-index: -1;
+
+}
+.col-3{
+background-color:#C9D8B6 ;
+flex: 0 0 auto;
+margin-bottom: 30px;
+margin-right: 50px;
+height: 25rem;
+width: 1rem;
+box-shadow: 5rem;
+z-index: 1;
+}
+.row{
+    width:1000px;
+    padding-right: 0px;
+    
+}*/
+body{
+    background-color: honeydew;
+}
+.btn{
+    margin:1px;
+    position:relative;
+    top: 3.5rem;
+    left: 2.7rem;
+    width: 10rem;
+    box-shadow: 1px 1px 10px 2px rgb(73, 72, 72) ;
+    opacity: 1;
+    
+}
+.one_card{
+    margin-top: 5rem;
+    height: 200px;
+    width: 412px;
+    margin-left: 10px;
+    position: relative; 
+     bottom: 30px;
+     left: 10rem;
+     opacity: 0.8;
+     box-shadow: 1px 1px 20px 10px rgb(7, 0, 0);
+    
+}
+.two_card{
+    margin-top: 5rem;
+    height: 200px;
+    width: 412px;
+    margin-left: 40px;
+    position: relative; 
+     bottom: 30px;
+     left: 1rem;
+     opacity: 0.8;
+     box-shadow: 1px 1px 20px 10px rgb(7, 0, 0);
+}
+.container1{
+background-color: indigo;
+height: 500px;
+width:80%;
+margin-top: 6rem;
+position: relative;
+left: 100px;
+box-shadow: 10px 10px 25px 10px #888888;
+
+}
+.card-title{
+    font-size:3rem;
+    text-align: center;
+}
+.card-text{
+    font-size: 90px;
+    position:relative;
+    bottom: 10px;
+    text-align: center;
+}
+.current--1,.current--2{
+    background-color: wheat;
+    padding: 0;
+    margin:0;
+    position: relative;
+    bottom: 25px;
+}
+.text1,.text2{ position: relative;
+    left: 40px;
+    top: 10px;
+    
+}
+.title--1,.title--2 {
+text-align: center;
+font-size: 20px;
+padding-top: 10px;
+}
+.score--1,.score--2{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+.dice{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    right: 110px;
+    bottom: 180px;
+    margin-right: 100px;
+    box-shadow: 1px 1px 20px 5px #050505;
+    
+}
+.hidden{
+    display: none;
+}
